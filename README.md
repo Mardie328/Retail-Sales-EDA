@@ -1,3 +1,13 @@
-Retail-Sales-EDA
+## Marketing Insight Report
+Introduction
 
-1.
+
+
+
+
+Key Observations
+
+
+
+
+Conclusion
