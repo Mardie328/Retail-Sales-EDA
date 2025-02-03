@@ -14,7 +14,7 @@ This report presents an exploratory analysis of a supermarket’s retail sales d
 
 2. Profitability Trends
 - Most Profitable Category: Technology products generated the highest profit, with _Copiers_ being the most lucrative item.
-- The least profitable category Was Furniture, which incurred a total loss of —$17,725.48 across regions. This indicates a potential need to reevaluate pricing and discount strategies for Furniture items.
+- The least profitable category Was Furniture, which incurred a total loss of $17,725.48 across regions. This indicates a potential need to reevaluate pricing and discount strategies for Furniture items.
 
 
   **View Observation: [Screenshot of Excel Output]()**
@@ -49,4 +49,4 @@ This exploratory analysis highlights critical insights that can guide marketing 
 Further analysis could include investigating customer preferences based on the number of items bought and the impact of external factors on sales performance.
 
 
-Link to HNG Internship: Learn more about the program at [HNG Internship]().
+Link to HNG Internship: Learn more about the program at [HNG Internship](https://hng.tech/internship).
