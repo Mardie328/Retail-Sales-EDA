@@ -1,4 +1,4 @@
-# MARKETING INSIGHT REPORT
+## MARKETING INSIGHT REPORT
 This report presents an exploratory analysis of a supermarket’s retail sales data, containing 9,994 transactions. The dataset includes information about sales, profit, discounts, and product categories across multiple regions. The analysis aims to extract initial marketing insights that inform strategic decision-making and enhance profitability.
 
 ## KEY OBSERVATIONS
@@ -9,7 +9,7 @@ This report presents an exploratory analysis of a supermarket’s retail sales d
 - Lowest-Selling Product: _Fasteners_ contributed minimally, with sales of $3,024.28.
 
 
-  **View Observation: [Screenshot of Excel Output]()**
+  **View Observation: [Screenshot of Excel Output](https://github.com/Mardie328/Retail-Sales-EDA/blob/main/Products%20Selling%20Performance.png?raw=true)**
 
 
 2. Profitability Trends
@@ -17,7 +17,10 @@ This report presents an exploratory analysis of a supermarket’s retail sales d
 - The least profitable category Was Furniture, which incurred a total loss of $17,725.48 across regions. This indicates a potential need to reevaluate pricing and discount strategies for Furniture items.
 
 
-  **View Observation: [Screenshot of Excel Output]()**
+  **View Observation: [Screenshot of Excel Output 1](https://github.com/Mardie328/Retail-Sales-EDA/blob/main/Profitability%20Category.png?raw=true)**
+
+
+  **[Screenshot of Excel Output 2](https://github.com/Mardie328/Retail-Sales-EDA/blob/main/Profitability.png?raw=true)**
 
   
 3. Impact of Discounts on Profit
@@ -26,10 +29,7 @@ This report presents an exploratory analysis of a supermarket’s retail sales d
 - The Furniture category was disproportionately affected by excessive discounting, contributing to its overall loss.
 
 
-  **View Observation: [Screenshot of Excel Output 1]()**
-
-
-  **[Screenshot of Excel Output 2]()**
+  **View Observation: [Screenshot of Excel Output](https://github.com/Mardie328/Retail-Sales-EDA/blob/main/Discount%20Impact.png?raw=true)**
 
 
 4. Regional Sales Trends
@@ -40,7 +40,7 @@ This report presents an exploratory analysis of a supermarket’s retail sales d
 These trends suggest that targeted marketing and promotional strategies may be needed to boost performance in the South Region.
  
  
- **View Observation: [Screenshot of Excel Output]()**
+ **View Observation: [Screenshot of Excel Output](https://github.com/Mardie328/Retail-Sales-EDA/blob/main/Regional%20Sales.png?raw=true)**
 
 
 
